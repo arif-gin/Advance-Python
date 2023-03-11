@@ -1,0 +1,4 @@
+Implement a student library system using oop and where students can borrow a book from the list of books
+create a separate library and student class. your program must be Menu driven
+
+you are free to choose methods and attributes of your choice to implement this functionality
